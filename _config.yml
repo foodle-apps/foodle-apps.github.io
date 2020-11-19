@@ -4,7 +4,7 @@ subtitle:
 email: foodle.apps.studio@gmail.com
 description: It's a pleasure to meet you!<br /> We are a mobile app development studio.
 baseurl: "/welcome" # the subpath of your site, e.g. /blog
-url: www.foodleapps.com # the base hostname & protocol for your site
+url: https://foodle-apps.github.io # the base hostname & protocol for your site
 author:
 street_address: 
 city: Edmond
