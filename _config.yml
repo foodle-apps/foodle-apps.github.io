@@ -1,3 +1,29 @@
-theme: jekyll-theme-minimal
+# site settings
 title: Foodle
-description: Feel free to bookmark this to keep an eye on company updates
+subtitle: 
+email: foodle.apps.studio@gmail.com
+description: It's a pleasure to meet you!<br /> We are a mobile app development studio.
+baseurl: "/welcome" # the subpath of your site, e.g. /blog
+url: www.foodleapps.com # the base hostname & protocol for your site
+author:
+street_address: 
+city: Edmond
+state: OK
+zip_code: 73013
+country: United States of America
+phone: (405) 436-0209
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+facebook_url: https://facebook.com
+instagram_url: https://instagram.com
+twitter_url: https://twitter.com
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
