@@ -1,7 +1,7 @@
 # site settings
 title: Foodle
 subtitle: 
-email: foodle.apps.studio@gmail.com
+email: developer@foodleapps.com
 description: It's a pleasure to meet you!<br /> We are a mobile app development studio.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
